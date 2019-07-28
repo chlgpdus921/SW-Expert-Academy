@@ -25,7 +25,7 @@ public class SW1859 {
 			}
 			
 			for (int j = 0; j < n; j++) {
-				if (temp >= j) {} //-1>= 0    3>=
+				if (temp >= j) {}
 				else {
 					max = 0;
 					for (int q = j; q < n; q++) {
